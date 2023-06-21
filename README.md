@@ -16,3 +16,5 @@ Key features of the Indian Sign Language Interpreter include:
 4.User-friendly interface: The interpreter will feature an intuitive and user-friendly interface, allowing individuals to easily interact with the system. The webcam feed will be displayed alongside the interpreted text or spoken output, ensuring seamless communication.
 
 The successful implementation of the Indian Sign Language Interpreter will have a profound impact on the lives of deaf or hearing-impaired individuals, enabling them to communicate more effectively with the broader society. It has the potential to facilitate education, employment opportunities, and social interactions, fostering inclusivity and equal participation for all members of the community.
+
+DATASET: https://www.kaggle.com/datasets/prathumarikeri/indian-sign-language-isl
